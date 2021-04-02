@@ -1,4 +1,7 @@
-//create this contact on remix Ide. compile and run chossing the environment as "JavaScript VM"
+//1)create this contact on remix Ide. compile and run chossing the environment as "JavaScript VM"
+//2)to run it on test network , select runtime environmrnt as "injected web3". it will automatically fetch the account from metamask.
+//the transaction details can be seen in etherscan.io
+//
 pragma solidity >=0.7.0 <0.9.0;
 
 contract Bank
